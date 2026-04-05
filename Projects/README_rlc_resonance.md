@@ -23,7 +23,8 @@ The series RLC circuit was configured with the following components:
 | Frequency | 1kHz |
 | Offset | 0V |
 
-![PSpice Schematic](./images/pspice_schematic.jpg)
+![PSpice Schematic](https://github.com/user-attachments/assets/1849247b-9b1c-4b8d-9975-5ada1843cb98)
+
 
 ---
 
@@ -36,7 +37,8 @@ A transient analysis was run to observe the voltage waveforms across the resisto
 - Transient analysis captured voltage at R1 and R2 nodes
 - Waveform displayed peak-to-peak voltage of approximately 300mV
 
-![PSpice Waveform](./images/pspice_waveform.jpg)
+![PSpice Waveform](https://github.com/user-attachments/assets/ad23a4d2-afb3-43be-98d9-67a3a68326cf)
+
 
 ---
 
@@ -47,7 +49,8 @@ The same circuit was recreated in Multisim with a 2.10V source at 1kHz driving a
 - Voltage difference of approximately 2.0973V measured between cursors
 - Output frequency confirmed at 606.06Hz
 
-![Multisim Circuit](./images/multisim_circuit.jpg)
+![Multisim Circuit](https://github.com/user-attachments/assets/002cd904-076b-408a-9d2d-95c4a78ea748)
+
 
 ---
 
