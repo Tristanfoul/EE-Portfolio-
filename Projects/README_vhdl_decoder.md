@@ -90,15 +90,3 @@ The compiled design was loaded onto the **Altera DE2 development board** via the
 - Pin planning on the Cyclone II FPGA bridges the gap between HDL design and real hardware output
 
 ---
-
-## Files
-```
-/
-├── README.md
-├── aex81.vhd
-├── aex81.qpf
-└── images/
-    ├── simulation_waveforms.jpg
-    ├── pin_planner.jpg
-    └── de2_board.jpg
-```
