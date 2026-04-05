@@ -47,7 +47,8 @@ At resonance, the inductive and capacitive reactances cancel out, leaving only t
 
 The PSpice circuit was configured with a **pulse voltage source** (V1 = 2Vdc, PW = 2.5ms, PER = 5ms) driving a series RL network with a 7kΩ resistor and 100mH inductor. Node voltages were measured at 2.000V across key nodes confirming proper bias point calculation.
 
-![PSpice Schematic](./images/pspice_schematic.jpg)
+![PSpice Schematic](https://github.com/user-attachments/assets/60cb4f03-eb59-4bd9-aec2-965c84978e38)
+
 
 ---
 
@@ -59,7 +60,8 @@ A transient analysis was run to observe voltage behavior over time. The simulati
 - Transient analysis captured voltage at L4 and C1 nodes
 - Waveform showed high-frequency oscillations consistent with RLC resonance behavior
 
-![PSpice Waveform](./images/pspice_waveform.jpg)
+![PSpice Waveform](https://github.com/user-attachments/assets/507947ff-e79e-4290-93d2-11fdc3728025)
+
 
 ---
 
@@ -72,7 +74,8 @@ The Multisim circuit used a 2.10V AC source at 1kHz driving a series RLC network
 - Output frequency confirmed at **606.06 Hz**
 - ΔX interval: 1.6500ms
 
-![Multisim Circuit & Waveform](./images/multisim_circuit.jpg)
+![Multisim Circuit & Waveform](https://github.com/user-attachments/assets/7fb3c543-ec46-42b5-9054-3c5a929892ee)
+
 
 ---
 
