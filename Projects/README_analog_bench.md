@@ -45,6 +45,7 @@ A more complex analog circuit was implemented using multiple ICs wired across th
 ![Breadboard Circuit](./images/IMG_2634.jpeg)
 
 ---
+![IMG_3877](https://github.com/user-attachments/assets/5c70e5b2-80fb-4807-8560-282c13b3b8a3)
 
 ## Key Takeaways
 
@@ -54,7 +55,4 @@ A more complex analog circuit was implemented using multiple ICs wired across th
 - Real-world results don't always match simulation exactly — understanding why is part of the engineering process
 
 ---
-
-## Files
-```
 
