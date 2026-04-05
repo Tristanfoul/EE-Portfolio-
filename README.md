@@ -3,7 +3,7 @@
 EE student skilled in VHDL, FPGA design, and circuit simulation. Experienced with Quartus II, OrCAD/PSpice, and hands-on IC implementation. Passionate about hardware design from logic gates to programmable devices.
 
 ---
-## 📄 [Resume](https://github.com/user-attachments/files/26490866/Resume.of.Tristan.Foulcard.Current.apr.5.pdf)
+### 📄 [Resume](https://github.com/user-attachments/files/26490866/Resume.of.Tristan.Foulcard.Current.apr.5.pdf)
 
 ---
 
