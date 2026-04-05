@@ -142,15 +142,3 @@ Both functional and timing simulations were run. Results confirmed correct 8-bit
 
 ---
 
-## Files
-```
-/
-├── README.md
-├── fourbit.vhd
-├── eight.vhd
-└── images/
-    ├── fourbit_bdf.jpg
-    ├── fourbit_sim.jpg
-    ├── eight_bdf.jpg
-    └── eight_sim_timing.jpg
-```
