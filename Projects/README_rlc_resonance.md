@@ -66,12 +66,4 @@ Circuit behavior was also observed on the **Tektronix MDO3024 Mixed Domain Oscil
 
 ---
 
-## Files
-```
-/
-├── README.md
-└── images/
-    ├── pspice_schematic.jpg
-    ├── pspice_waveform.jpg
-    └── multisim_circuit.jpg
-```
+
