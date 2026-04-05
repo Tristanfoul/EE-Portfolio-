@@ -61,7 +61,7 @@ Functional simulation confirmed correct addition across all tested input combina
 | 9 | 8 | 1 | 1 |
 | 6 | A | 0 | 1 |
 
-![4-bit Simulation Waveforms](Projects/images/IMG_4074.jpeg)
+![4-bit Simulation Waveforms](./images/IMG_4074.jpeg)
 
 ---
 
@@ -74,7 +74,7 @@ Two 74283 adder blocks were cascaded in the Quartus II block diagram editor:
 - Final 8-bit sum: `SUM[7:0]`
 - Final carry out: `COUT`
 
-![8-bit Block Diagram](Projects/images/IMG_4078.jpeg)
+![8-bit Block Diagram](./images/IMG_4078.jpeg)
 
 ### VHDL Equivalent
 
@@ -121,7 +121,7 @@ Both functional and timing simulations were run. Results confirmed correct 8-bit
 | 03      | 25      | 28          | 0    |
 | 85      | 7E      | 03          | 1    |
 
-![8-bit Timing Simulation](Projects/images/IMG_4080.jpeg)
+![8-bit Timing Simulation](./images/IMG_4080.jpeg)
 
 ---
 
