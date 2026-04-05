@@ -23,7 +23,7 @@ A single 74283 4-bit adder IC was instantiated in the Quartus II block diagram e
 - 4-bit sum output: `SUM[3:0]`
 - Carry out: `COUT`
 
-![4-bit Block Diagram](Projects/images/IMG_4076.jpeg)
+![4-bit Block Diagram](./images/IMG_4076.jpeg)
 
 ### VHDL Equivalent
 
